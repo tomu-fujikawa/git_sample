@@ -15,4 +15,5 @@ export const Button: FC = () => {
 };
 const StyledContainer = styled.button`
   padding: 20px 30px;
+  width: 400px;
 `;
